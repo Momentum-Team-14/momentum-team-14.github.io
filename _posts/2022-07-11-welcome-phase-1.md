@@ -20,6 +20,7 @@ tags: phase-1 orientation command-line git github
 4. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
 5. Read the [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n).
 6. Complete the Git-It tutorial (below) and [submit this form when you are done](https://forms.gle/jvQjs85BJ19JS1cWA).
+UPDATE 7. Complete [Thinkific HTML unit](https://momentumlearn.thinkific.com/courses/take/phase-one/texts/30747777-learning-objectives) through Hello Rabbit World
 
 ## 💻 Today's Project: Git It
 
