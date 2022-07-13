@@ -55,4 +55,4 @@ This assignment is due on **Monday, July18**, at 9:00 am.
 ## 🦉 Code & Notes
 
 - [CSS Basics notes](https://github.com/Momentum-Team-14/notes/blob/main/css-basics.md)
-- [Example from class]() 
+- [Example from class](https://codepen.io/rlconley/pen/ZExpwMv) 
