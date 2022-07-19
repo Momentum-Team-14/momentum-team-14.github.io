@@ -25,3 +25,5 @@ English:
 
 - [Intro to JS Notes/Slides](https://github.com/Momentum-Team-14/notes/blob/main/intro-js.md)
 - [Radius Example Code Pen](https://codepen.io/rlconley/pen/MWQEZwL)
+- [JS Function Example from class](https://codepen.io/rlconley/pen/yLKMEEY)
+- [JS Loops examples from class]()
