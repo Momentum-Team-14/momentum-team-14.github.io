@@ -15,8 +15,6 @@ _Finish Second Half_
 
 
 ## 🔖 Resources
-- [Modern JavaScript Tutorial](https://javascript.info/js) 
-  - More explanations, examples, and exercises for JavaScript concepts
 - [Rebecca's video on variables](https://vimeo.com/showcase/7220986/video/426872305)
 - [Rebecca's video on types](https://vimeo.com/showcase/7220986/video/426872279)
 - [Rebecca's video on functions](https://vimeo.com/showcase/7220986/video/426872241)
