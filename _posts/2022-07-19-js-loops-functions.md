@@ -11,7 +11,6 @@ tags: phase-1 javascript js programming-basics
 ## 🎯 Project: Free Code Camp JavaScript Exercises
 _Finish Second Half_
 
-English:
 [JavaScript practice exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) 
 
 
