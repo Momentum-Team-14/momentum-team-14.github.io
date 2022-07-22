@@ -5,30 +5,25 @@ tags: phase-1 javascript js dom
 ---
 
 ## Today's topics
-- Arrow notation for functions
-- DOM manipulation with JS
-- Events in JS
+- Calculator Wrap Up
+- Pre-work for next week
+  - [Thinkific Unit JS and the Fetch API](https://momentumlearn.thinkific.com/courses/take/phase-one/texts/31121293-learning-objectives)
 
 ## 🎯 Project for the week: JavaScript Calculator
 
-### Part 1: Due 9am Wednesday, July 27
-- [Assignment link](https://classroom.github.com/a/Gb735tbF)
-
-### Part 2: Due 4pm Thursday, July 28
-When you complete part 1, continue to part 2. 
-**Continue in the same repository as part 1, nothing additional to clone for part 2.**  [here](https://github.com/Momentum-Team-14/js-calculator-part-2).
-
-##  🐈 Events 🐶
-- Use the [notes](https://github.com/Momentum-Team-14/notes/blob/main/js-dom.md)) and the [example from class](https://codepen.io/rlconley/pen/KKQZPmP) as a guide.
+### Part 2: Due 4pm Today, July 28
+[Directions](https://github.com/Momentum-Team-14/js-calculator-part-2).
 
 
-## 🔖 Resources to use as reference
-- [MDN Arrow Notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [DOM Manipulation in 18 Minutes Video](https://www.youtube.com/watch?v=y17RuWkWdn8)
-- [DOM Manipulation with Vanilla JS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
-- [How JS Event Delegation Works](https://davidwalsh.name/event-delegate)
+## 🔖 Resources to use as reference on Fetch
+- [MDN AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+- [MDN Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [MDN fetch() method](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
+- [CSS-Tricks article on using Fetch](https://css-tricks.com/using-fetch/)
+- [MDN Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+- [Code Academy Lesson on Fetch](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/js-requests-with-fetch-api/exercises/js-requests-with-fetch-api-intro)
+- [AJAX explained by analogy](https://blog.codeanalogies.com/2018/01/15/ajax-basics-explained-by-working-at-a-fast-food-restaurant/)
 
-- [Chapters 13-15 of Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ### ⭐️ EXTRA/TMI
 
