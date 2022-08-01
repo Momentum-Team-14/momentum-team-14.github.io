@@ -18,8 +18,8 @@ tags: phase-1 javascript js objects
 
 
 ### Examples
+- [JS Objects Exercise from class](https://codepen.io/rlconley/pen/XWEVLmy)
 - [JS Objects with The Simpsons](https://codepen.io/rlconley/pen/wvppXRy)
-- [Find People By City](https://codepen.io/rlconley/pen/poppZLz)
 - [Mari Edwards Video on Objects](https://vimeo.com/429329778)
 
 ## 🔖 Resources
