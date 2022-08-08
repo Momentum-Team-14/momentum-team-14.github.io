@@ -76,4 +76,4 @@ These articles are way more in-depth than you need right now, but they are good 
 
 - [Notes: Intro to Python](https://github.com/momentum-team-14/notes/blob/main/intro-python.md)
 - [Notebooks Prequel: the Force Awakens](https://github.com/Momentum-Team-14/notes/blob/main/python-notebooks-prequel.md)
-- [Intro to Python notebooks](https://github.com/Momentum-Team-14/python-notebooks) (**Notebooks 1-5**)
+- [Intro to Python notebooks](https://github.com/Momentum-Team-14/python-jupyter-notebooks) (**Notebooks 1-5**)
