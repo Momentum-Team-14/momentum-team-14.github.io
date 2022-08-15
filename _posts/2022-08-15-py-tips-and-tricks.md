@@ -15,9 +15,9 @@ Today, we'll continue applying what we've learned about Python in an assignment 
 
 ## 🎯 Project
 
-- Due Thursday morning, we will work on [Mystery Word](https://classroom.github.com/a/DZtAgDQS) in teams in class. 
+- Due Wednesday morning, we will work on [Mystery Word](https://classroom.github.com/a/DZtAgDQS) in teams in class. 
 
-- Also by Thursday Morning, please complete the Object Oriented Programming modules in [Thinkific](https://momentumlearn.thinkific.com/manage/courses/1739105/contents/32705516):
+- Also by Wednesday Morning, please complete the Object Oriented Programming modules in [Thinkific](https://momentumlearn.thinkific.com/manage/courses/1739105/contents/32705516):
   - Object Oriented Python
   - Classes and Objects
   - An OOP cat
