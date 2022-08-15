@@ -4,7 +4,7 @@ title: Intro to Object-Oriented Python
 tags: phase-2 python oop classes objects object-oriented
 ---
 
-Today, we'll continue applyting what we've learned about Python in an assignment to work on in class and outside of class.
+Today, we'll continue applying what we've learned about Python in an assignment to work on in class and outside of class.
 
 ## Today's topics
 
