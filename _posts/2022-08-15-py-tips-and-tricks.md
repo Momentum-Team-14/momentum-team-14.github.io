@@ -27,7 +27,7 @@ Today, we'll continue applying what we've learned about Python in an assignment 
 
 - [List Comprehensions](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 - [Lambda Functions](https://realpython.com/python-lambda/)
-- 
+- UPDATED 8/16 [Tuple Unpacking & *args, **kwargs Repl](https://replit.com/@rlconley/PythonicExamples#main.py)
 
 ## 🦉 Code & Notes
 
