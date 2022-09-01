@@ -11,7 +11,7 @@ tags: phase-2 django debugging forms queries shell
 
 ## 🎯 Django Duplex Project due Thursday EOD
 
-## Intro to Collaboration with GitHub (before Monday)
+## Intro to Collaboration with GitHub (read before Monday)
 
 - [GitHub Collaboration Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)
 - [Git Collaboration slides](https://slides.com/amy_nc/git-collaboration/)
