@@ -19,10 +19,10 @@ Passcode: R6OM9h%!
 - [User and Registration video]()
   - Caution: don't do makemigrations and migrate until you have added your User model
   - TL;DR Here's what to do to implement basic registration and login using Django Registration Redux
-    - Make sure you have a `base.html` template in the root of your `templates` directory and that it contains `{% block content %}{% endblock %}`
+    - Make sure you have a `base.html` template in the root of your `templates` directory and that it contains `{% raw %}{% block content %}{% endblock %}{% endraw %}`
    - Run `pipenv install django-registration-redux` and add "registration" to the top of the INSTALLED_APPS list in `settings.py`
    - Add the urls to your urls.py as desribed here - [Django Registration Redux one-step backend](https://django-registration-redux.readthedocs.io/en/latest/simple-backend.html)
-   - These are the [urls](https://django-registration-redux.readthedocs.io/en/latest/urls.html) you now have access to, all beginning with `accounts/`. 
+   - These are the [urls](https://django-registration-redux.readthedocs.io/en/latest/urls.html) you now have access to, all beginning with `accounts/`.
 - [Making a Gitignore file](https://www.toptal.com/developers/gitignore/)
 - [Custom User model in Django App](https://docs.djangoproject.com/en/4.1/topics/auth/customizing/#using-a-custom-user-model-when-starting-a-project)
   - Note: decide how you are going to configure the User model at the *beginning* of the project.
