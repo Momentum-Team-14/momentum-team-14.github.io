@@ -50,6 +50,7 @@ _Links in this section are really more information than you need right now, but 
 
 ## 🦉 Code & Notes
 
+- [Habit Tracker models diagram from class](https://github.com/Momentum-Team-14/notes/blob/main/habit-tracker-models.md)
 - [Example: Django Music App](https://github.com/Momentum-Team-14/example-django-music)
 - [Deploying a Django App to Heroku](https://momentumlearn.notion.site/Deploying-a-Django-App-to-Heroku-81488333c03445539bfc7eb3c1691ed0)
 - [Using Postgres Locally](https://momentumlearn.notion.site/Using-Postgres-Locally-6d24cd1ea8854eabb875023d6696fba9)
