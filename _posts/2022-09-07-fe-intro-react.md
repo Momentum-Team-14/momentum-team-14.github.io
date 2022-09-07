@@ -54,3 +54,9 @@ If you finish this and want to keep going, try one of these other tutorials:
 - [How to Lint and Format Code with ESLint in VS Code](https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code) This tutorial walks you through using ESLint in a more comprehensive way.
 - [React Dev Tools Extension Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Essential. Please install it.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) Remember we talked about following code standards? Here is one popular style guide.
+
+## 👾 Code & Notes
+
+- [Replit transforming arrays with loops and map](https://replit.com/@AmyGori1/Transforming-arrays-with-loops-and-with-map?v=1#index.js)
+- [Phase 1 notes on Arrays](https://github.com/Momentum-Team-14/notes/blob/main/js-arrays.md) - if you're feeling rusty it would be great to type these examples out in a console or repl.it and run them yourself
+- [Most minimal React app ever](https://github.com/Momentum-Team-14/example-react-app)
