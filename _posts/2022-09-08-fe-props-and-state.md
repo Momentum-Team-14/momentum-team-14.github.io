@@ -50,3 +50,4 @@ We care about the look and feel of the UI, but that doesn't automatically mean w
 ## 🦉 Code and Notes
 
 - [JS for React](https://github.com/Momentum-Team-14/notes/blob/main/js-for-react.md)
+- [Example React Devs](https://github.com/Momentum-Team-14/example-react-devs)
