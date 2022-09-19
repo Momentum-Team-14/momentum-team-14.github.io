@@ -94,3 +94,37 @@ ul#results-container {
 span.post-meta {
   font-size: 1rem;
 }
+
+/* CSS specific to posts for this team */
+
+.team-img {
+  border-radius: 50%;
+  height: 100px;
+  border: 1px solid #D3D3D3;
+  margin: 0 30px 0;
+}
+
+
+
+#team-donkey+p, #team-shrek+p, #team-puss-in-boots+p {
+  float: left;
+}
+
+h4#team-donkey, h4#team-puss-in-boots {
+  clear: left;
+  padding-top: 30px;
+}
+
+.list--team {
+  margin-top: 45px;
+  margin-left: 150px;
+}
+
+ul+li.team-list {
+  margin-left: 20px;
+}
+
+.section {
+  clear: left;
+}
+
