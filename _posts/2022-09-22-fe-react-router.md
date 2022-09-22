@@ -25,8 +25,8 @@ Deploy to Netlify today if you haven't already!
 
 ## 🔖 Resources
 
-- [React Router docs](https://reactrouter.com/docs/en/v6)
-- [React Router Main Concepts](https://reactrouter.com/docs/en/v6/getting-started/concepts) _This is pretty in-depth, and you may not need it, but it's helpful if you want more explanation._
+- [React Router docs](https://reactrouter.com/en/main)
+- [React Router Main Concepts](https://reactrouter.com/en/main/start/concepts) _This is pretty in-depth, and you may not need it, but it's helpful if you want more explanation._
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/) _really comprehensive, really good_
 - [The Complete Guide to URL Parameters with React Router](https://ui.dev/react-router-url-parameters/)
 
