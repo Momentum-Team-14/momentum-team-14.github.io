@@ -26,9 +26,7 @@ tags: phase-3 phase-3-be full-text-search deploy file-upload
 
 ### Requirements for QuestionBox, Back End
 
-#### Note
-
-Depending on how you've constructed your API, you might have separate endpoints for all of the below, or some of the functionality might be combined in a single endpoint (for instance, if you nested answers in the question detail endpoint, like `questions/4/answers`). What matters is that you have endpoints that your front-end team can use to perform all the necessary actions they need and that are documented in your README.
+**Note:** Depending on how you've constructed your API, you might have separate endpoints for all of the below, or some of the functionality might be combined in a single endpoint (for instance, if you nested answers in the question detail endpoint, like `questions/4/answers`). What matters is that you have endpoints that your front-end team can use to perform all the necessary actions they need and that are documented in your README.
 
 ⚠️ Be sure to test that you have implemented permissions-checking correctly for these endpoints. For example, your API should not allow a user who is not the question-asker to mark an answer as accepted.
 
@@ -142,6 +140,7 @@ CORS_ALLOW_HEADERS = list(default_headers) + [
 - [`django-storages`](https://django-storages.readthedocs.io/en/latest/index.html)
 - [DRF `FileUploadParser`](https://www.django-rest-framework.org/api-guide/parsers/#fileuploadparser) _Without this you will get errors about unsupported media types_
 
-## 🦉 Code & Notes
+## 👾 Code & Notes
 
+- [Example Recipes API](https://github.com/Momentum-Team-14/example-django-recipes)
 - [Notes on Django Queries](https://github.com/Momentum-Team-13/notes/blob/main/django-queries.md) These are the same notes you may have seen at the beginning of the Phase. I'm including them here for easy reference, as they show examples of queries and filters that might come in handy for search endpoints.

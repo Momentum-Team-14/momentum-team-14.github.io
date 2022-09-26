@@ -4,7 +4,7 @@ title: 🐻 🦊 End of Phase Video Presentation 🦊 🐻
 tags: phase-3 phase-3-be presentations
 ---
 
-This week we're wrapping up Phase 3 by finishing the QuestionBox and Social E-Cards projects, publishing a _very simple_ project page (one page! more detail coming later in the week) to represent your team, and creating a short video walk-through of your code.
+This week we're wrapping up Phase 3 by finishing the QuestionBox and Social E-Cards projects and creating a short video walk-through of your code.
 
 ## ✅ Requirements for passing the phase for both front and back end
 
@@ -35,7 +35,7 @@ Loom lets you record a screencast with or without your face showing; either way 
 - [Getting Started with Loom](https://support.loom.com/hc/en-us/articles/360015714197-Getting-Started-Video-Tutorials)
 - [Loom Chrome Extension](https://www.loom.com/download)
 
-Please post your video and submit the url for it using [this form](https://forms.gle/14ksHEXtGW2PGs1M7). **Your videos are due by 12:00 pm ET on Friday, Sept 30.**
+Please post your video and submit the url for it using [this form](https://forms.gle/14ksHEXtGW2PGs1M7). **Your videos are due by 9:00 am ET on Friday, Sept 30.**
 
 ## 🐻 Back End Video Presentation Requirements
 
