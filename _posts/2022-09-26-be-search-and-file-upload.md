@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐻 Search & Automatic Deploys 🐻
+title: 🐻 Full-text Search & File Upload 🐻
 tags: phase-3 phase-3-be full-text-search deploy file-upload
 ---
 
