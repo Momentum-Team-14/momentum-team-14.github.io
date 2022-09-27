@@ -67,3 +67,7 @@ _Note: The bullet points listed under requirements do not necessarily correspond
 - [Object & array dependencies in the React useEffect Hook](https://www.benmvp.com/blog/object-array-dependencies-react-useEffect-hook/)
 - [How the useEffect Hook Works (with Examples)](https://daveceddia.com/useeffect-hook-examples/)
 - [Reading React Errors](https://daveceddia.com/fix-react-errors/)
+
+## 👾 Code
+
+- [Example React Library](https://github.com/Momentum-Team-14/example-react-library)
