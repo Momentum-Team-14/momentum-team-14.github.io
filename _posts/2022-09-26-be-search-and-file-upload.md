@@ -143,4 +143,5 @@ CORS_ALLOW_HEADERS = list(default_headers) + [
 ## 👾 Code & Notes
 
 - [Example Recipes API](https://github.com/Momentum-Team-14/example-django-recipes)
+- [Code from class: Djoser and testing POST endpoints](https://github.com/Momentum-Team-14/social-e-cards-puss_in_boots_e_cards_backend/pull/15)
 - [Notes on Django Queries](https://github.com/Momentum-Team-13/notes/blob/main/django-queries.md) These are the same notes you may have seen at the beginning of the Phase. I'm including them here for easy reference, as they show examples of queries and filters that might come in handy for search endpoints.
