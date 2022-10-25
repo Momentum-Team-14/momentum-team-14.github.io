@@ -66,11 +66,11 @@ layout: default
 - 1:30-2:30 pm **Second rehearsal with staff**
     - All teams together
     - Please have your screencast done, at least in first draft
-- 3:30 pm **Final screencast video & blurb due** to Jessica  ([Google Drive link](https://drive.google.com/drive/folders/19fU4MwJvKPv_AnKQ3GyUw2A4gTm0thgE?usp=sharing))
+- 3:30 pm **Final screencast video & blurb due** to Jessica  ([Google Drive link](https://drive.google.com/drive/folders/17Xro-vfYzNdijfF2JBsUa1edj_P7NDn4?usp=sharing))
 - **Tech Check & Final Rehearsal** @4:00-4:45 pm (Your Zoom link will be provided via email)
     - All teams together with staff
 
 ### Friday Oct 28
 
 - 12:00-1:00 pm **Presentations** (A Zoom link inviting you to be a panelist for a webinar will be in your email inbox; **you must use the link in your own email** because that link will be **unique to you**)
-- 1:00-2:00 pm **Graduation** [Zoom Link]()
+- 1:00-2:00 pm **Graduation** [Zoom Link](https://us02web.zoom.us/j/85227937933?pwd=a3NIUGtBYmIya1dFTE44TllPdlgyUT09)
